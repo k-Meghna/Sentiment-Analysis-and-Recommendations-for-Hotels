@@ -1,7 +1,5 @@
 # Sentiment-Analysis-and-Recommendations-for-Hotels
 
-# 🏨 Sentiment Analysis and Hotel Recommendation System
-
 This project combines Natural Language Processing (NLP) and Recommendation Logic to analyze hotel reviews, extract sentiment insights, and suggest hotels based on user preferences across languages.
 
 ---
